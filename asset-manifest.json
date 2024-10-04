@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_react/static/css/main.72178faa.css",
+    "main.js": "/ws101_react/static/js/main.f2af82bb.js",
+    "index.html": "/ws101_react/index.html",
+    "main.72178faa.css.map": "/ws101_react/static/css/main.72178faa.css.map",
+    "main.f2af82bb.js.map": "/ws101_react/static/js/main.f2af82bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72178faa.css",
+    "static/js/main.f2af82bb.js"
+  ]
+}
